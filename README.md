@@ -1,1 +1,1 @@
-# Restaurant-project
+# Restaurant Management project
